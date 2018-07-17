@@ -358,7 +358,7 @@ void levelThree()
 void win()
 {
 
-     cout << endl << endl << "Contrats, you successfully matched the words and missing letters!!11oneeleventyone"
+     cout << endl << endl << "Congrats, you successfully matched the words and missing letters!!11oneeleventyone"
           << endl << endl;
 
    return;
