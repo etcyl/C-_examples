@@ -1,12 +1,13 @@
-//Matt Fleetwood, 4-14-2016, CS 162, Program #1
-//This program has three phases:
-//1) allows the user to decide which money conversion to perform
-//(US --> CNY, CNY --> US) or exit to the next phase;
-//2) allows the user to enter a US dollar amount and  displays
-//the equivalent paper denominations in CNY;
-//3) allows the user to enter a CNY amount, displays the
-//equivalent paper denominations in US dollars, and allows
-//the user to repeat from 1) if desired.
+/*Matt Fleetwood, 4-14-2016, CS 162, Program #1
+  This program has three phases:
+  1) allows the user to decide which money conversion to perform
+  (US --> CNY, CNY --> US) or exit to the next phase;
+  2) allows the user to enter a US dollar amount and  displays
+  the equivalent paper denominations in CNY;
+  3) allows the user to enter a CNY amount, displays the
+  equivalent paper denominations in US dollars, and allows
+  the user to repeat from 1) if desired.
+*/
 
 #include <cctype>
 #include <iostream>
