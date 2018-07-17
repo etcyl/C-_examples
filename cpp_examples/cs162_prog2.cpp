@@ -1,14 +1,15 @@
-//Matt Fleetwood, CS 162, Program2
-//This program has three levels.
-//Level one shows the user a word in German that represents a number from 1 - 10,
-//and if the user guesses in English correctly 5 times then they can advance to the next level.
-//Level two shows the user a word in German that represents a number from 1 - 10,
-//but one letter has been removed and the user must guess which letter is missing.
-//After five successful guesses the user can advance to the third and final level.
-//Level three is the same as level two but now two or three letters are omitted
-//from the word and the user must enter the letters as they appear missing in the word.
-//The user is allowed to quit after each correct or incorrect guess.
-//Completing all three levels prompts the user with a congratulatory message.
+/*Matt Fleetwood, CS 162, Program2
+  This program has three levels.
+  Level one shows the user a word in German that represents a number from 1 - 10,
+  and if the user guesses in English correctly 5 times then they can advance to the next level.
+  Level two shows the user a word in German that represents a number from 1 - 10,
+  but one letter has been removed and the user must guess which letter is missing.
+  After five successful guesses the user can advance to the third and final level.
+  Level three is the same as level two but now two or three letters are omitted
+  from the word and the user must enter the letters as they appear missing in the word.
+  The user is allowed to quit after each correct or incorrect guess.
+  Completing all three levels prompts the user with a congratulatory message.
+*/
 
 #include <cctype>
 #include <cstring>
